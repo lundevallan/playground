@@ -52,3 +52,5 @@ end
 gem 'rails_12factor'
 
 gem 'pg', '~> 0.18.1'
+
+gem 'ibm_db', '~> 2.5.18'
